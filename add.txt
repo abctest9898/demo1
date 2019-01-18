@@ -1,1 +1,1 @@
-this is my master and adding to other branch.
+this is my master and adding to other branch. Hey its featureA demo testing.
