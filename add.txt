@@ -1,1 +1,1 @@
-this is my master and adding to other branch. Hey its featureA demo testing.
+this is my master and adding to other branch. hey its featureB changes
